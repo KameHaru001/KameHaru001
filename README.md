@@ -11,7 +11,7 @@
 
 - 🧑‍💻 I'm a university student.
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me: [Twitter - 
+- 📫 How to reach me:
 <br>
 
 
