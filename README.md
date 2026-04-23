@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a university student.
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning 
 - 📫 How to reach me:
 <br>
 
