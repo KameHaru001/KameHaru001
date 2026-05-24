@@ -9,9 +9,9 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a university student.
-- 🌱 I’m currently learning 
-- 📫 How to reach me:
+- 🧑‍💻 I'm a Junior engineer.
+- 🌱 I’m currently learning FE📕
+- 📫 How to reach me: 
 <br>
 
 
@@ -19,7 +19,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=flutter,html,css,figma,python," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=flutter,git,github,html,css," />
 <br>
 
 
